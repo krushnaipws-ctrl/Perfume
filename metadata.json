@@ -1,0 +1,6 @@
+{
+  "name": "ÉLORA PARFUMS — Luxury Fragrance House",
+  "description": "Discover extraordinary fragrances crafted to leave an unforgettable signature impression. Haute Parfumerie, artisanal flacons, and bespoke olfactory creations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
